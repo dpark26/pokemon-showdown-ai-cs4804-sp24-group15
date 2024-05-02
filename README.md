@@ -8,7 +8,7 @@ Steps to run bot:
 
 npm install\
 cp config/config-example.js config/config.js\
-node pokemon-showdown start --no-security\
+node pokemon-showdown start --no-security
 
 2. Run Minimax bot:
 
