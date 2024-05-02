@@ -4,7 +4,7 @@ Pokemon Showdown UI cloned from smogon's pokemon showdown git repository.\
 Code inspired by poke-env and RemptonGames\
 
 Steps to run bot:\
-1. Run pokemon showdown server locally:\
+1. Run pokemon showdown server locally:
 
 npm install\
 cp config/config-example.js config/config.js\
